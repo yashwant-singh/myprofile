@@ -15,10 +15,10 @@ const initialContent={
   summary:{
     name:'Yashwant Kumar',
     image:Img,
-    role:'Java Enthusiast, Backend and UI Developer at Practo, working on React and Java',
-    skills:['Java', 'Spring','Javascript', 'React', 'Redux', 'React Semantic UI',' WebPack '],
+    role:'Working as a full stack developer',
+    skills:['Java', 'Spring','Javascript', 'React', 'Redux', 'React Semantic UI',' WebPack ', 'AWS - ec2, s3', 'Python'],
     email:'yashwant.nie@gmail.com ',
-    phone:'+91-8050232560',
+    phone:'',
     twitter:'',
     linkedIn:'https://www.linkedin.com/in/ykgaya/',
     github:'https://github.com/yashwant-singh',
@@ -26,9 +26,15 @@ const initialContent={
   },
   work:[
     {
+      company:'Intuit India IDC',
+      details:[` Working as a full stack developer`],
+      duration:'2019, August - present',
+      role:'Staff Software Engineer'
+    },
+    {
       company:'Practo Technologies',
       details:[` Working as a full stack developer User Interface as well as backend for Insta Health Management System.`],
-      duration:'2013, Dec - present',
+      duration:'2013, Dec - 2019, July',
       role:'Lead Software Engineer'
     },
   ],
